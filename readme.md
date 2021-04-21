@@ -1,4 +1,4 @@
-nukneh! i'm berrymot
+here's some text
 
 likes:
 - linguistics
@@ -8,4 +8,4 @@ dislikes:
 
 pronouns: he/they
 
-(oh btw the *nukneh* up there is technically spelt *nuqneH* but ugh mixed case klingon)
+discord: merrybot#9121
