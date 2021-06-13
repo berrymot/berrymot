@@ -1,11 +1,8 @@
-here's some text
+**names:** rjienrlwey • merrybot • j mewipa
 
-likes:
-- linguistics
+**projects:** romulan • ultlf
 
-dislikes:
-- ~~everything except linguistics~~
+**languages:** `eng` • `*qrh` • `qtk` • `spa` • `tlh`
 
-pronouns: he/they
-
-discord: merrybot#9121
+---
+`*qrh` is the doubly unofficial `ISO 639 3` code for Romulan / Rihan.
