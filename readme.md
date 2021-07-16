@@ -1,8 +1,5 @@
-**names:** rjienrlwey • merrybot • j mewipa
+**names:** merrybot • jmewipa
 
-**projects:** romulan • ultlf
+**projects:** canIPA ultlf • untitled conlang
 
-**languages:** `eng` • `qrh` • `qtk` • `spa` • `tlh`
-
----
-`qrh` is the new CLCR code for Romulan/Rihan
+**languages:** eng • qrh • qtk • spa • tlh
