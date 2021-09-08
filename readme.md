@@ -1,6 +1,6 @@
 **names:** merrybot • jmewipa
 
-**projects:** canIPA ultlf • youtube videos
+**projects:** merrybfont • youtube videos
 
 **languages:** eng • qrh • qtk • spa • tlh
 
